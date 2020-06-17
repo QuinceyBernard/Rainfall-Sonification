@@ -6,5 +6,7 @@ A piece of artwork that was created as part of the Creating with Data module, wh
 
 Use a local host service such as MAMP to be able to run the code on your own computer/laptop. 
 
+There have been reported issues with this piece and Google Chrome due to the audio restrictions put in place with this browser, so using Firefox is suggested to ensure minimal issues when loading the artwork.
+
 ## Dataset
 The dataset used for this piece was resourced from the MET Office website, which has various datasets detailing different weather data for various areas around the United Kingdom
